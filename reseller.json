@@ -1,1 +1,12 @@
-
+[
+    {
+        "timestamp": "2026-09-18T13:25:31.000Z",
+        "type": "reseller",
+        "domain": "localhost",
+        "name": "sdf",
+        "email": "",
+        "package": "Ich möchte ein Reseller-Paket für deutsches IPTV mit 10 Credits erwerben.Ich möchte ein Reseller-Paket für deutsches IPTV mit 10 Credits erwerben.",
+        "payment": "Card",
+        "notes": "this is a special request"
+    }
+]
