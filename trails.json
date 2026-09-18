@@ -1,1 +1,14 @@
-
+[
+    {
+        "timestamp": "2026-09-18T13:22:13+00:00",
+        "type": "trial",
+        "domain": "localhost",
+        "name": "gchcj",
+        "email": "dsdf@gdf.com",
+        "package": "Hallo, ich möchte eine kostenlose Testversion erhalten.",
+        "payment": "PayPal",
+        "notes": "No notes",
+        "ip": "unknown",
+        "lang": "en_US"
+    }
+]
