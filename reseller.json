@@ -38,5 +38,15 @@
         "package": "Ich möchte ein Reseller-Paket für deutsches IPTV mit 10 Credits erwerben.Ich möchte ein Reseller-Paket für deutsches IPTV mit 10 Credits erwerben.",
         "payment": "PayPal",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-19T14:53:01.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Jesse Benavides",
+        "email": "jessebenavides@rocketmail.com",
+        "package": "hi i want to get 12 month access for 39 usd",
+        "payment": "Card",
+        "notes": "this is a special request"
     }
 ]
