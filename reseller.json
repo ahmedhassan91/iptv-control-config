@@ -58,5 +58,15 @@
         "package": "\\'Hi i want to buy adult 3 Month Subscription for 18$\\'",
         "payment": "Card",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-20T00:25:49.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Jesse Benavides",
+        "email": "jessebenavides@rocketmail.com",
+        "package": "hi i want to get 12 month access for 39 usd",
+        "payment": "Card",
+        "notes": "Just want US,UK and Canada channels along with the local, sports,ppv movies."
     }
 ]
