@@ -250,5 +250,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-21T18:39:18+00:00",
+        "type": "trial",
+        "domain": "iptvsquebec.com",
+        "name": "Francois Otis",
+        "email": "francois.otis@hotmail.com",
+        "package": "Hi i need a free trial",
+        "payment": "PayPal",
+        "notes": "with adult section please",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
