@@ -268,5 +268,14 @@
         "package": "hi, ich brauche ein 12-Monats-Abonnement",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-21T12:29:08.000Z",
+        "domain": "iptv-italia.org",
+        "name": "marcello",
+        "email": "marcellomarrone@mail.com",
+        "package": "Ciao, sono interessato al pannello rivenditori e vorrei una prova gratuita..",
+        "payment": "Altro",
+        "notes": "Vorrei info + test per possibile acquisto pannello"
     }
 ]
