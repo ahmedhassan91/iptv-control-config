@@ -128,5 +128,15 @@
         "package": "\\'Hi i want to buy adult 1 Year Subscription for 39$\\'",
         "payment": "PayPal",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-21T02:46:05.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Jerome Reeves",
+        "email": "jeromereeves222@gmail.com",
+        "package": "\\'Hi i want to buy adult 1 Month Subscription for 9$\\'",
+        "payment": "Card",
+        "notes": "Adult channels Firestick"
     }
 ]
