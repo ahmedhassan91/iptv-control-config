@@ -277,5 +277,14 @@
         "package": "Ciao, sono interessato al pannello rivenditori e vorrei una prova gratuita..",
         "payment": "Altro",
         "notes": "Vorrei info + test per possibile acquisto pannello"
+    },
+    {
+        "timestamp": "2026-09-21T18:45:29.000Z",
+        "domain": "iptv-italia.org",
+        "name": "Luigi di domenicantonio",
+        "email": "luigipescara00@gmail.com",
+        "package": "Ciao, vorrei ottenere la versione di prova.",
+        "payment": "Carta",
+        "notes": "No notes"
     }
 ]
