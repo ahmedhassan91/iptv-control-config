@@ -382,5 +382,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-22T22:23:58+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "George Hernandez",
+        "email": "ghern470@gmail.com",
+        "package": "\\'Hi i need free trial for a reseller panel",
+        "payment": "Card",
+        "notes": "I would like a trial before committing to a reseller package.",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
