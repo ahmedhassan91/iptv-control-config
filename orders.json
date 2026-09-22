@@ -322,5 +322,14 @@
         "package": "hi, ich brauche ein 12-Monats-Abonnement",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-22T14:09:28.000Z",
+        "domain": "trex-tv.de",
+        "name": "Abdullah Elzaim",
+        "email": "Elzaim13@gmail.com",
+        "package": "Hallo, ich möchte den T-Rex mit 120 Credits für 230 Euro kaufen.",
+        "payment": "PayPal",
+        "notes": "Can i test it for one day"
     }
 ]
