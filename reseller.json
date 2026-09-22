@@ -158,5 +158,15 @@
         "package": "\\'Hi i want to buy adult 1 Year Subscription for 39$\\'",
         "payment": "PayPal",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-22T00:37:28.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Brad Dupree",
+        "email": "bradgeorgia81@gmail.com",
+        "package": "\\'Hi i want to buy adult 3 Month Subscription for 18$\\'",
+        "payment": "Card",
+        "notes": "Add adult channel"
     }
 ]
