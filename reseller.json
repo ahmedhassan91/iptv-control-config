@@ -168,5 +168,15 @@
         "package": "\\'Hi i want to buy adult 3 Month Subscription for 18$\\'",
         "payment": "Card",
         "notes": "Add adult channel"
+    },
+    {
+        "timestamp": "2026-09-22T01:20:45.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Jonathan Masey",
+        "email": "maseyjay@icloud.com",
+        "package": "hi i want to get 12 month access for 39 usd",
+        "payment": "PayPal",
+        "notes": "this is a special request"
     }
 ]
