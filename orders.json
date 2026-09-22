@@ -367,5 +367,14 @@
         "package": "Buenos días, quisiera realizar un pedido.",
         "payment": "Other",
         "notes": "Necesito panel"
+    },
+    {
+        "timestamp": "2026-09-22T20:56:16.000Z",
+        "domain": "trex-iptvs.org",
+        "name": "juan",
+        "email": "killo@gmx.es",
+        "package": ".Hola, me gustaría recibir una versión de prueba gratuita para adultos.",
+        "payment": "PayPal",
+        "notes": "adulto pelis canales series en general"
     }
 ]
