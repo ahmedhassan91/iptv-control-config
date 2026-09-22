@@ -274,5 +274,17 @@
         "notes": "with adult section please",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-22T02:15:27+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Mauricio Cabrera",
+        "email": "nylive4one@hotmail.com",
+        "package": "\\'Hi i want to get Free Trial with adult\\'",
+        "payment": "Other",
+        "notes": "No notes",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
