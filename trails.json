@@ -466,5 +466,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-23T19:46:32+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Daniel Grant",
+        "email": "deebill.dg@gmail.com",
+        "package": "hi i want to get 1 day free access",
+        "payment": "Other",
+        "notes": "No notes",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
