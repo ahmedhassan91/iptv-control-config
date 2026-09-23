@@ -412,5 +412,14 @@
         "package": ".Hola, me gustaría recibir una versión de prueba gratuita para adultos.",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-23T14:07:48.000Z",
+        "domain": "iptv-italia.org",
+        "name": "Pino rossi",
+        "email": "pinorossi86@proton.me",
+        "package": "Ciao, sono interessato al pannello rivenditori e vorrei una prova gratuita..",
+        "payment": "Cripto",
+        "notes": "Salve, sono interessato ad acquistare un pannello reseller Iptv e vorrei avere maggiori informazioni. Grazie"
     }
 ]
