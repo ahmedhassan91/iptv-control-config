@@ -493,5 +493,14 @@
         "package": "Ciao, ho bisogno di aiuto",
         "payment": "Cripto",
         "notes": "Hai l’e-mail pieno e non ti arrivano i messaggi è da oggi che provo a scriverti ma non ti arrivano l’e-mail"
+    },
+    {
+        "timestamp": "2026-09-24T20:10:08.000Z",
+        "domain": "iptv-italia.org",
+        "name": "Pino",
+        "email": "pinorossi86@proton.me",
+        "package": "Ciao, vorrei acquistare un abbonamento di 1 mese.",
+        "payment": "PayPal",
+        "notes": "No notes"
     }
 ]
