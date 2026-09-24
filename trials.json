@@ -502,5 +502,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-24T17:10:41+00:00",
+        "type": "trial",
+        "domain": "trex-tv.de",
+        "name": "Nic G",
+        "email": "lordroku96@gmail.com",
+        "package": "Package",
+        "payment": "PayPal",
+        "notes": "android tv standard bitte kein adult content",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
