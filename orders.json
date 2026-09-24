@@ -466,5 +466,14 @@
         "package": "hi, ich brauche ein 24-Monats-Abonnement",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-24T17:49:08.000Z",
+        "domain": "trex-tv.de",
+        "name": "Lennart kanwisch",
+        "email": "lennart.kanwisch@gmail.com",
+        "package": "hi, ich brauche ein 6-Monats-Abonnement",
+        "payment": "PayPal",
+        "notes": "No notes"
     }
 ]
