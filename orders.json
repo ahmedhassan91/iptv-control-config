@@ -484,5 +484,14 @@
         "package": "Hola, quiero probar Trex TV durante 24 horas.",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-24T19:51:23.000Z",
+        "domain": "iptv-italia.org",
+        "name": "Pino",
+        "email": "pinorossi86@proton.me",
+        "package": "Ciao, ho bisogno di aiuto",
+        "payment": "Cripto",
+        "notes": "Hai l’e-mail pieno e non ti arrivano i messaggi è da oggi che provo a scriverti ma non ti arrivano l’e-mail"
     }
 ]
