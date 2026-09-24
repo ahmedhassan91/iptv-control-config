@@ -268,5 +268,15 @@
         "package": "\\'Hi i want to buy adult 6 Month Subscription for 35$\\'",
         "payment": "Card",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-24T23:02:16.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "T",
+        "email": "tonydeluca243@gmail.com",
+        "package": "\\'Hi i want to buy adult 6 Month Subscription for 35$\\'",
+        "payment": "Other",
+        "notes": "this is a special request"
     }
 ]
