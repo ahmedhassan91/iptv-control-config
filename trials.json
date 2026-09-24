@@ -550,5 +550,17 @@
         "notes": "All channels including adult trial for firestick",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-24T23:34:16+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Lindsay Damskov",
+        "email": "lindam@nep.net",
+        "package": "hi i want to get 1 day free access",
+        "payment": "Card",
+        "notes": "I use Perfect Player and REQUIRE a full URL",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
