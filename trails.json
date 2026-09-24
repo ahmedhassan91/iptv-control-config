@@ -538,5 +538,17 @@
         "notes": "Free trial with adult channels",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-24T21:43:39+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Tony D",
+        "email": "tonydeluca243@gmail.com",
+        "package": "\\'Hi i want to get Free Trial with adult\\'",
+        "payment": "Card",
+        "notes": "All channels including adult trial for firestick",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
