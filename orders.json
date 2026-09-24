@@ -502,5 +502,14 @@
         "package": "Ciao, vorrei acquistare un abbonamento di 1 mese.",
         "payment": "PayPal",
         "notes": "No notes"
+    },
+    {
+        "timestamp": "2026-09-24T22:47:57.000Z",
+        "domain": "trex-iptvs.org",
+        "name": "jose escriva herrero",
+        "email": "josevicenteescriva@hotmail.com",
+        "package": ".Hola, me gustaría recibir una versión de prueba gratuita para adultos.",
+        "payment": "PayPal",
+        "notes": "canales adultos"
     }
 ]
