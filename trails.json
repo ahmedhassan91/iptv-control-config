@@ -514,5 +514,17 @@
         "notes": "android tv standard bitte kein adult content",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-24T20:57:26+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Scooter",
+        "email": "moscooter24@gmail.com",
+        "package": "\\'Hi i want to get Free Trial with adult\\'",
+        "payment": "PayPal",
+        "notes": "Free trial with adult channels",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
