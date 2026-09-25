@@ -610,5 +610,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-25T23:39:00+00:00",
+        "type": "trial",
+        "domain": "iptvsquebec.com",
+        "name": "Ian Drummond",
+        "email": "edog@live.com",
+        "package": "Hi i need a free trial",
+        "payment": "PayPal",
+        "notes": "No notes",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
