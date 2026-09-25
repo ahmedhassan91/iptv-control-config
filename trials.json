@@ -574,5 +574,17 @@
         "notes": "No notes",
         "ip": "unknown",
         "lang": "en_US"
+    },
+    {
+        "timestamp": "2026-09-25T02:58:34+00:00",
+        "type": "trial",
+        "domain": "ip-tv-reseller.us",
+        "name": "Edgar Ceasar",
+        "email": "ceasar.edgar@yahoo.com",
+        "package": "hi i want to get 1 day free access",
+        "payment": "Card",
+        "notes": "No notes",
+        "ip": "unknown",
+        "lang": "en_US"
     }
 ]
