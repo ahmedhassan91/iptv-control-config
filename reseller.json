@@ -278,5 +278,15 @@
         "package": "\\'Hi i want to buy adult 6 Month Subscription for 35$\\'",
         "payment": "Other",
         "notes": "this is a special request"
+    },
+    {
+        "timestamp": "2026-09-25T03:03:56.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "Edgar Ceasar",
+        "email": "ceasar.edgar@yahoo.com",
+        "package": "hi i want to get 12 month access for 39 usd",
+        "payment": "Card",
+        "notes": "1 device"
     }
 ]
