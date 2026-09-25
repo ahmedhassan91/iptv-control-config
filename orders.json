@@ -511,5 +511,14 @@
         "package": ".Hola, me gustaría recibir una versión de prueba gratuita para adultos.",
         "payment": "PayPal",
         "notes": "canales adultos"
+    },
+    {
+        "timestamp": "2026-09-25T08:53:07.000Z",
+        "domain": "trex-tv.de",
+        "name": "Sofia Giovanna",
+        "email": "sofia.bezerra4287@flounderfantasy.com",
+        "package": "hi, ich brauche ein 12-Monats-Abonnement",
+        "payment": "Crypto",
+        "notes": "No notes"
     }
 ]
