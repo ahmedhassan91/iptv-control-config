@@ -308,5 +308,15 @@
         "package": "\\'Hi i want to buy adult 1 Month Subscription for 9$\\'",
         "payment": "Card",
         "notes": "Gay super bear daddy Chubby"
+    },
+    {
+        "timestamp": "2026-09-26T08:34:21.000Z",
+        "type": "reseller",
+        "domain": "ip-tv-reseller.us",
+        "name": "James Young",
+        "email": "getbiz33@gmail.com",
+        "package": "hi i want to get 12 month access for 39 usd",
+        "payment": "PayPal",
+        "notes": "1 Year Subscription for $39"
     }
 ]
